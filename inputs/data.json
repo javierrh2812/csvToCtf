@@ -1,0 +1,30 @@
+{
+  "entries": [
+    {
+      "fields": {
+        "header1": {
+          "es": "value1"
+        },
+        "header2": {
+          "es": "value2"
+        },
+        "header3": {
+          "es": "value3"
+        }
+      }
+    },
+    {
+      "fields": {
+        "header1": {
+          "es": "val1"
+        },
+        "header2": {
+          "es": "val2"
+        },
+        "header3": {
+          "es": "val3"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+    "spaceId": "",
+    "environmentId": "",
+    "contentFile": "./inputs/data.json",
+    "errorLogFile": "./outputs/export-error-log.json"
+}
