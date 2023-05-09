@@ -20,8 +20,9 @@ contentful login
 2. download csv file to inputs/data.csv
 
 3. convert csv to json 
+contentType must be the contentType id
 ```bash
-node clearData.js
+node clearData.js {contentType}
 ```
 
 
